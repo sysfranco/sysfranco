@@ -11,7 +11,7 @@
 </div>
 
 ## 📌 About Me
-- I'm currently looking for a job in Helpdesk L1.
+- I'm currently looking for a job in System Administration / Helpdesk L1.
 
 
 ## 🧠 My Focus Areas
