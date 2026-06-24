@@ -87,6 +87,29 @@
   </a>
 </p>
 
+## 🏆 Achievements & Certifications
+
+<p align="center">
+  <!-- Microsoft Learn Achievement -->
+  <a href="https://learn.microsoft.com/api/achievements/share/es-es/FrancoLeon-3614/AKB98MC7?sharingId=2184DB119C25F9EF" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/training/achievements/fundamentals-of-machine-learning.svg" alt="Microsoft Learn Achievement" />
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- Microsoft Learn Certificate / Credential -->
+  <a href="https://learn.microsoft.com/api/achievements/share/es-es/FrancoLeon-3614/9Y2RN7LU?sharingId=2184DB119C25F9EF" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-ai-skills-fest.svg" alt="Microsoft Learn Certificate" />
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- Cisco / Networking -->
+  <a href="https://learn.microsoft.com/api/achievements/share/es-es/FrancoLeon-3614/JUNA7E5T?sharingId=2184DB119C25F9EF" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-ai-fundamentals.svg" alt="Cisco Badge" />
+  </a>
+</p>
+
+
+
 ![Top language](https://stats.pphat.top/languages?username=sysfranco)
 <br/>
 
